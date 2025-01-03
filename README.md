@@ -3,20 +3,17 @@
 
 - 🔭 Recent Projects
 - [Adaptive Regenerative Breaking System](https://youtu.be/ZBO_7K5l-r8?si=-ev-dtK8ELYrq5O8)
+
 - [Smart Socket](https://youtu.be/-yFZ3K2t-P4?si=bD-5nLW0MKQol73s)
 
 - 👨‍💻 All of my projects are available at
 - [http://www.youtube.com/@7volts](http://www.youtube.com/@7volts)
 
-- 📝 Linkedin Profile
-- [linkedin.com/in/hemanth-r-65882b25b](linkedin.com/in/hemanth-r-65882b25b)
-
 - 📫 How to reach me **rhemanth051@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/hemanth-r-65882b25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hemanth-r-65882b25b" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@7volts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@7volts" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/b25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b25b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
