@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemanth R</h1>
 <h3 align="center">Aspiring to become a low level guy</h3>
 
-- 🔭 Recent Projects
-- [Adaptive Regenerative Breaking System](https://youtu.be/ZBO_7K5l-r8?si=-ev-dtK8ELYrq5O8)
-
-- [Smart Socket](https://youtu.be/-yFZ3K2t-P4?si=bD-5nLW0MKQol73s)
-
 - 👨‍💻 All of my projects are available at [http://www.youtube.com/@7volts](http://www.youtube.com/@7volts)
 
 - 📫 How to reach me **rhemanth051@gmail.com**
